@@ -1,0 +1,20 @@
+{
+  "name": "senler-io-user",
+  "interface": {
+    "displayName": "Senler.io User"
+  },
+  "plugins": [
+    {
+      "name": "senler-io-user",
+      "source": {
+        "source": "local",
+        "path": "./plugins/senler-io-user"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
