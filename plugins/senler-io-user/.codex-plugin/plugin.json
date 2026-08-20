@@ -1,6 +1,6 @@
 {
   "name": "senler-io-user",
-  "version": "0.1.0",
+  "version": "0.1.0+codex.20260820000413",
   "description": "Hosted Senler.io user MCP plugin with native OAuth and access to the authenticated user's projects.",
   "author": {
     "name": "Senler",

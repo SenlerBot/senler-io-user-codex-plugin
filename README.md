@@ -13,7 +13,7 @@ codex plugin marketplace add https://github.com/SenlerBot/senler-io-user-codex-p
 Установите плагин:
 
 ```bash
-codex plugin add senler-io-user@senler-io-user
+codex plugin add senler-io-user@senler-user
 ```
 
 После установки откройте новую задачу Codex и вызовите любой защищённый инструмент. MCP-клиент сам запустит OAuth.
@@ -32,8 +32,8 @@ codex plugin add senler-io-user@senler-io-user
 ## Обновление
 
 ```bash
-codex plugin marketplace upgrade senler-io-user
-codex plugin add senler-io-user@senler-io-user
+codex plugin marketplace upgrade senler-user
+codex plugin add senler-io-user@senler-user
 ```
 
 После обновления откройте новую задачу Codex.
